@@ -120,5 +120,5 @@ Sent batch of 2 (deduplicated) messages
 
 After that you can check you transaction in the explorer:
 
-![image]()
-![image]()
+![image](https://github.com/apilatushka/Stride/blob/main/images/icq1.png)
+![image](https://github.com/apilatushka/Stride/blob/main/images/icq2.png)
